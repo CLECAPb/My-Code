@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1698265528 source:w:\Рабочий стол\work_with_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	"stdbool.h"
+
+1698265004 w:\Рабочий стол\work_with_stack\stack.h
+	"stdbool.h"
+
+1698265227 source:w:\Рабочий стол\work_with_stack\stack.c
+	"stack.h"
+	"stdbool.h"
+	<stdio.h>
+
