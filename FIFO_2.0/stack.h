@@ -6,4 +6,5 @@ int push(int n);
 int pop(void);
 bool is_empty(void);
 bool is_full(void);
+void ShowNullRight(void)
 #endif // STACK_H
