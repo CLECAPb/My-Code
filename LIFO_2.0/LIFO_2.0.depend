@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1698354985 source:w:\Рабочий стол\lifo_2.0\stack.c
+	"stack.h"
+	"stdbool.h"
+	<stdio.h>
+
+1698355177 w:\Рабочий стол\lifo_2.0\stack.h
+	"stdbool.h"
+
+1698354285 source:w:\Рабочий стол\lifo_2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
