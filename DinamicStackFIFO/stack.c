@@ -16,13 +16,13 @@ int push(int n)
 
 bool is_empty(void)
 {
-    if(stack[bottom+1] == '\0') return true;
+    if(stack[bottom] == '\0') return true;
     else return false;
 }
 
 int pop(void)
 {
-    if(is_empty() == 0)
+    if(is_empty() != false)
     {
         int number = stack[bottom];
         stack[bottom] = '\0';
