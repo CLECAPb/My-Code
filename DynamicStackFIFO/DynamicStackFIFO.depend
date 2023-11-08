@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1699477797 source:w:\Рабочий стол\dynamicstackfifo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	<stdbool.h>
+
+1699477295 w:\Рабочий стол\dynamicstackfifo\stack.h
+	<stdbool.h>
+
+1699482149 source:w:\Рабочий стол\dynamicstackfifo\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"stack.h"
+
